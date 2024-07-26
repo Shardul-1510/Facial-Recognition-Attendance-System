@@ -22,6 +22,13 @@ The system operates through a command-line interface and/or GUI, depending on th
 - Attendance Monitoring: Real-time facial recognition for marking attendance.
 - Reports/Csv: View and generate attendance reports/csv files.
 
+![UI](https://github.com/user-attachments/assets/a6ac5963-252a-477f-ae07-78ac822639d9)
+![Face folder](https://github.com/user-attachments/assets/92b72f65-0f31-46b1-91b2-6e751e140b4b)
+
+![Faces photos](https://github.com/user-attachments/assets/ea9a6a7d-6a97-4973-994d-a557f5083596)
+![Attendance](https://github.com/user-attachments/assets/d61352b6-3026-413e-94a7-f6eb7c1231e6)
+
+
 ## Technologies Used
 - Python 3.x: Programming language used for development.
 - OpenCV: Library for computer vision tasks.
